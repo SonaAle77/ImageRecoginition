@@ -1,1 +1,2 @@
-haihello
+sum=a+b
+print(sum)
